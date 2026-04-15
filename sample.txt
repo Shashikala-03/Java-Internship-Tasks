@@ -1,0 +1,3 @@
+Hello, this is a Java File Handling Task.
+This file is created during internship.
+This line is added later.
